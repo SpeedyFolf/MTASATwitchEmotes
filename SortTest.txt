@@ -1,0 +1,6 @@
+In the code, emotes should be listed by the length of their name longest to shortest.
+
+as
+asdf
+asdfgh
+asdfghjk

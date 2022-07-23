@@ -1,0 +1,29 @@
+<meta>
+    <info type="script" version="1.1.0" author="Ali Digitali"></info>
+    <script src="client.lua" type="client"></script>
+	<script src="server.lua" type="server"></script>
+	<file src="Kappa.png" />
+	<file src="FrankerZ.png" />
+	<file src="BibleThump.png" />
+	<file src="FailFish.png" />
+	<file src="ItsBoshyTime.png" />
+	<file src="PogChamp.png" />
+	<file src="ResidentSleeper.png" />
+	<file src="SwiftRage.png" />
+	<file src="TriHard.png" />
+	<file src="Kreygasm.png" />
+	<file src="OpieOP.png" />
+	<file src="DansGame.png" />
+	<file src="BORT.png" />
+	<file src="CJPlz.png" />
+	<file src="DatSheffy.png" />
+	<file src="DogFace.png" />
+	<file src="JKanStyle.png" />
+	<file src="KevinTurtle.png" />
+	<file src="MrDestructoid.png" />
+	<file src="MVGame.png" />
+	<file src="OneHand.png" />
+	<file src="RalpherZ.png" />
+	<file src="BrainSlug.png" />
+<config type="client" src="help.xml"/>
+</meta>
